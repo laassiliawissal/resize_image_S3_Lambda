@@ -1,0 +1,1 @@
+# resize_image_S3_Lambda
